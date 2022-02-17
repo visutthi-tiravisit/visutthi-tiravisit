@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, SQL, Selenium etc.
 - 🌱 I’m currently learning more of Python and SQL to be an expert.
 - 📫 Keep in touch ! 
-  Linkedin: https://www.linkedin.com/in/visutthi/
+  Linkedin: https://www.linkedin.com/in/visutthi/ 
   Mail: visutthi.tiravisit@gmail.com 
   
 
