@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=visutthi-tiravisit&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,JS&theme=nautilus&includeNames=true)](https://github.com/visutthi-tiravisit/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,JS,nodeJS&theme=nautilus&includeNames=true)](https://github.com/visutthi-tiravisit/github-widgetbox)
 
 
 <!--
