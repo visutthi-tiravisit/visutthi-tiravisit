@@ -3,14 +3,11 @@
   <img src="assets/header_label_bg.gif" alt="header_label_bg">
 </p>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="assets/hello_img.png" alt="hello_img" width="200">
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
-    <p>Text box content goes here.</p>
-  </div>
+<div>
+  <iframe src="assets/greeting.html" width="100%" height="300px" scrolling="no"></iframe>
 </div>
+
+
 
 
 
