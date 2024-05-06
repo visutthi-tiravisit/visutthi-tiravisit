@@ -1,4 +1,7 @@
-#Hi there 👋
+<h1 align="center">Konnichiwa stranger 🍵, come come.</h1>
+![Alt text](/visutthi-tiravisit/assets/header_label_bg.gif)
+
+
 
 
 
