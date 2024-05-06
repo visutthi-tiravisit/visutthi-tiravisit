@@ -1,5 +1,16 @@
 <h1 align="center">Konnichiwa stranger 🍵, come come.</h1>
-![Alt text](assets/header_label_bg.gif)
+<p align="center">
+  <img src="assets/header_label_bg.gif" alt="header_label_bg">
+</p>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="assets/hello_img.png" alt="hello_img" width="200">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>Text box content goes here.</p>
+  </div>
+</div>
 
 
 
