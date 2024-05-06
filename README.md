@@ -29,3 +29,7 @@ I have created a tool that is able to send bulk users and also have cool interfa
 <p align="center">
   <img src="assets/go_message_proj.gif" alt="python_car_proj">
 </p>
+
+## Keep in touch
+<img src="assets/linkedin_icon.png" alt="LinkedIn Icon" width="30px">
+  <a href="https://www.linkedin.com/in/visutthi/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
