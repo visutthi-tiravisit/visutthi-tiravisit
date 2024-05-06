@@ -21,3 +21,11 @@ As an outcome, we have over 120k vehicle data that included brand, model, sub-mo
 <p align="center">
   <img src="assets/python_car_proj.gif" alt="python_car_proj">
 </p>
+
+### 📲 Golang Whatsmeow - Whatsapp auto sending bulk users
+We need to send messages to clients to billing them. but ofcause they'll block the number. We have to change sender number very often.
+Whatsapp does not allow to sending bulk users. My job is to create tool integrated with Whatsmeow using GO as the main language.
+I have created a tool that is able to send bulk users and also have cool interface for user-friendly :)
+<p align="center">
+  <img src="assets/go_message_proj.gif" alt="python_car_proj">
+</p>
