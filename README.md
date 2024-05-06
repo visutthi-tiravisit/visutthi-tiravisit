@@ -31,9 +31,11 @@ I have created a tool that is able to send bulk users and also have cool interfa
 </p>
 
 ## Keep in touch
-</br>
-<a href="https://www.linkedin.com/in/visutthi/" target="_blank"><img align="left" src="assets/linkedIn_icon.png" alt="LinkedIn" width="80px" height="80px"/></a>
-<a href="mailto:visutthi.tiravisit@gmail.com"><img align="left" src="assets/gmail_icon.png" alt="Gmail" width="80px" height="80px"/></a>
-<a href="https://visutthiportfolio-2024.web.app/index.html"><img align="left" src="assets/website_icon.png" alt="Website" width="80px" height="80px"/></a>
 
 </br>
+
+<a href="https://www.linkedin.com/in/visutthi/" target="_blank"><img align="left" src="assets/linkedIn_icon.png" alt="LinkedIn" width="80px" height="80px"/></a>
+
+<a href="mailto:visutthi.tiravisit@gmail.com" target="_blank"><img align="left" src="assets/gmail_icon.png" alt="Gmail" width="80px" height="80px"/></a>
+
+<a href="https://visutthiportfolio-2024.web.app/index.html" target="_blank"><img align="left" src="assets/website_icon.png" alt="Website" width="80px" height="80px"/></a>
