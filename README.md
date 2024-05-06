@@ -31,5 +31,6 @@ I have created a tool that is able to send bulk users and also have cool interfa
 </p>
 
 ## Keep in touch
-<img src="assets/linkedin_icon.png" alt="LinkedIn Icon" width="30px">
-  <a href="https://www.linkedin.com/in/visutthi/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/visutthi/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedIn_icon.png" alt="LinkedIn Icon" width="150px"></a><a href="https://www.linkedin.com/in/visutthi/" target="_blank" rel="noopener noreferrer"><img src="assets/gmail_icon.png" alt="LinkedIn Icon" width="150px"></a>
+</div>
