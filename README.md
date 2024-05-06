@@ -3,12 +3,10 @@
   <img src="assets/header_label_bg.gif" alt="header_label_bg">
 </p>
 
-<div>
-  <iframe src="assets/greeting.html" width="100%" height="300px" scrolling="no"></iframe>
+<img src="assets/hello_img.png" alt="hello_img" width="200px"> [![My Skills](https://skillicons.dev/icons?i=js,go,postgres,py,react,ts,vue,html,css,docker,figma,git)](https://skillicons.dev)
+<div style="margin-top: 10px;">
+    <strong><em>About me, </em></strong>over the lazy dog.
 </div>
-
-
-
 
 
 
