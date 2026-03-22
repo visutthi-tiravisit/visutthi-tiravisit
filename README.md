@@ -1,46 +1,42 @@
+<h1 align="center">Hi there, I'm Visutthi 👋</h1>
+
 <p align="center">
-  <img src="assets/header_label_bg.gif" alt="header_label_bg">
+  <b>Senior System Analyst</b><br/>
+  Former Political Science grad who fell in love with code — and never looked back.
 </p>
 
-## About me 
-A passionate software developer with a unique background in Political Science International Relation. weird back story right ?
-Trust me, it's like when the main character finally gets what they've been searching for the entire show. It's happy ending.
-But, a Story of mine part 2 is coming. <p align="center">"Way to very best Software Engineer"</p>
-
-## Skills
-<img src="assets/hello_img.png" alt="hello_img" width="300px"> [![My Skills](https://skillicons.dev/icons?i=js,go,postgres,py,react,ts,vue,html,css,docker,figma,git)](https://skillicons.dev)
-<div style="margin-top: 10px;">
-</div>
-
-## Projects
-### 🚗 Python Selenium - Scaping website for vehicle data
-As I have experienced working in the insurance company, we need to have vehicle data as many as possible to make options for client.
-Well .. scaping someone's website is not the right thing to do but it is a very challenging website and CHALLENGE ACCEPTED.
-This website has pagination, bot-check, scrolling before element shows, and much more. I'm using Selenium as a tool.
-As an outcome, we have over 120k vehicle data that included brand, model, sub-model and etc.
 <p align="center">
-  <img src="assets/python_car_proj.gif" alt="python_car_proj">
+  <a href="https://www.linkedin.com/in/visutthi/"><img src="https://img.shields.io/badge/LinkedIn-visutthi-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:visutthi.tiravisit@gmail.com"><img src="https://img.shields.io/badge/Email-visutthi.tiravisit@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@visutthi"><img src="https://img.shields.io/badge/Medium-@visutthi-000000?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
-### 📲 Golang Whatsmeow - Whatsapp auto sending bulk users
-We need to send messages to clients to billing them. but ofcause they'll block the number. We have to change sender number very often.
-Whatsapp does not allow to sending bulk users. My job is to create tool integrated with Whatsmeow using GO as the main language.
-I have created a tool that is able to send bulk users and also have cool interface for user-friendly :)
-<p align="center">
-  <img src="assets/go_message_proj.gif" alt="python_car_proj">
-</p>
+---
 
-## Keep in touch
-### Contact
-</br>
-<p>
-<a href="https://www.linkedin.com/in/visutthi/" target="_blank"><img align="left" src="assets/linkedIn_icon.png" alt="LinkedIn" width="80px" height="80px"/></a>
-<a href="mailto:visutthi.tiravisit@gmail.com" target="_blank"><img align="left" src="assets/gmail_icon.png" alt="Gmail" width="80px" height="80px"/></a>
-<a href="https://visutthi-2025.web.app/" target="_blank"><img align="left" src="assets/website_icon.png" alt="Website" width="80px" height="80px"/></a>
-</p>
+## 🙋‍♂️ About Me
 
-<p align="right">
-Credit icons: 
-<a href="https://www.flaticon.com/free-icons" title="credit icons" align="right">Icons created by Design Circle - Flaticon</a>
-</p>
+I'm a Senior System Analyst based in Thailand with a background that's a little unconventional — I studied Political Science & International Relations before making the leap into tech. Turns out, understanding how systems work (political or otherwise) is great training for building them.
 
+These days I spend my time designing and analyzing complex systems, writing code that solves real problems, and occasionally writing about what I've learned so others don't have to suffer through the same rabbit holes I did.
+
+- 🔭 Currently working as a **Senior System Analyst**
+- 🛠️ I enjoy building tools that handle scale, automate the boring stuff, and actually work
+- ✍️ I write about backend engineering and database performance on **Medium**
+- 📬 Always happy to connect — reach me at **visutthi.tiravisit@gmail.com**
+
+---
+
+## ✍️ Writing
+
+### [SQL Web Sorting & Pagination with Millions of Rows](https://medium.com/@visutthi/sql-web-sorting-pagination-with-millions-of-rows-2a264f606a87)
+A deep dive into making sort and paginate queries actually perform when your table has millions of records. The kind of thing that becomes critical the moment your app grows beyond "it works on my machine."
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations, collaborations, or just a chat about tech (or the strange journey from political science to software).
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/visutthi/)
+- 📧 [visutthi.tiravisit@gmail.com](mailto:visutthi.tiravisit@gmail.com)
+- ✍️ [Medium](https://medium.com/@visutthi)
